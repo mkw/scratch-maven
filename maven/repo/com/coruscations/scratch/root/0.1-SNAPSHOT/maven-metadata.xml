@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.coruscations.scratch</groupId>
+  <artifactId>root</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131226.184629</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <lastUpdated>20131226184629</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20131226.184629-7</value>
+        <updated>20131226184629</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
